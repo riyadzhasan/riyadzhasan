@@ -10,9 +10,9 @@ I am Riyad Hasan, a Master's of Chemical Engineering graduate from UCL with a pa
 
 📫 You can reach me via:
 
-- [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/riyad-hasan-062305297/)
-- [![Email](https://i.imgur.com/BJTnDN3.png) riyadzhasan@gmail.com](riyadzhasan@gmail.com)
-- [![RPubs](https://i.imgur.com/WKPQa6U.png) RPubs](https://rpubs.com/RiyadHasan)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-%230072b1?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riyad-hasan-062305297/)
+[![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white)](riyadzhasan@gmail.com)
+[![RPubs](https://img.shields.io/badge/RPubs-white?logo=rstudioide&logoColor=blue)](https://rpubs.com/RiyadHasan)
 
   
 
