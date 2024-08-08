@@ -1,4 +1,4 @@
-## Hello there 👋
+# Hello there 👋
 
 I am Riyad Hasan, a Master's of Chemical Engineering graduate from UCL with a passion for data analysis and science
 
@@ -8,7 +8,8 @@ I am Riyad Hasan, a Master's of Chemical Engineering graduate from UCL with a pa
 
 👯 Looking to collaborate with like-minded individuals whether you're experienced or on the same journey as myself
 
-📫 You can reach me via:
+
+# You can reach me via
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-%230072b1?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riyad-hasan-062305297/)
 [![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white)](mailto:riyadzhasan@gmail.com)
