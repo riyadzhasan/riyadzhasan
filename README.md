@@ -47,17 +47,17 @@ Here are some ideas to get you started:
 
 Below you can find a list of my repositories containing data analysis projects I have completed whilst in University, Bootcamp and in my free time.
 
-### [Bootcamp Projects](github.com/riyadzhasan/Bootcamp_Projects)
+### [Bootcamp Projects](https://github.com/riyadzhasan/Bootcamp_Projects)
 
 - This repository contains all of my projects completed during my data skills botocamp
 
-### [Research Project](github.com/riyadzhasan/Research_Project)
+### [Research Project](https://github.com/riyadzhasan/Research_Project)
 
 - This repository contains files for my University final year research project:
 
     - _**“Systems-based approaches for time series forecasting”**_
 
-### [Plant Project](github.com/riyadzhasan/Plant_Project)
+### [Plant Project](https://github.com/riyadzhasan/Plant_Project)
 
 - This repository contains files for my University chemical plant process design project:
 
