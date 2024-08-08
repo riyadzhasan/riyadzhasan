@@ -11,6 +11,7 @@ I am Riyad Hasan, a Master's of Chemical Engineering graduate from UCL with a pa
 📫 You can reach me via:
 
 - [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/riyad-hasan-062305297/)
+- [![RPubs](https://i.imgur.com/WKPQa6U.png) RPubs](https://rpubs.com/RiyadHasan)
 
   
 
