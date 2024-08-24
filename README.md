@@ -13,6 +13,7 @@ I am Riyad Hasan, a Master's of Chemical Engineering graduate from UCL with a pa
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-%230072b1?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riyadzhasan/)
 [![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white)](mailto:riyadzhasan@gmail.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/riyadzhasan)
 [![RPubs](https://img.shields.io/badge/RPubs-white?logo=rstudioide&logoColor=blue)](https://rpubs.com/RiyadHasan)
 
   
