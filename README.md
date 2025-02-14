@@ -2,7 +2,7 @@
 
 I am Riyad Hasan, a Master's of Chemical Engineering graduate from UCL with a passion for data analysis and science
 
-🌱 Currently enrolled on a data skills bootcamp
+🌱 Recently completed a data skills bootcamp
 
 📊 Aiming to kickstart my career in the field of data
 
